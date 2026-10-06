@@ -47,7 +47,7 @@ Instead of standard classification that memorizes fixed classes, meta-learning (
 ### 2. Clone the Repository
 Open your terminal (or Command Prompt / PowerShell) and run:
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/<YOUR-REPO-NAME>.git
+git clone https://github.com/pranze-r/few-shot-image-classification.git
 cd <YOUR-REPO-NAME>
 ```
 
